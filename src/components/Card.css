@@ -1,0 +1,27 @@
+.table{
+    display: inline-block;
+    border: 1px solid #000;
+    border-color: black;
+    width: 150px;
+}
+.table1{
+    display: inline-flex;
+    border: 1px solid #000;
+    width: 150px;
+    height: 70px;
+}
+.form1{
+    margin-top: 20px;
+}
+.input{
+    width: 200px;
+}
+.btn{
+    width: 200px;
+}
+.label{
+    display: block;
+}
+.reform{
+    margin-top: 20px;
+}
